@@ -1,0 +1,427 @@
+div.Index{
+    border-style:ridge;
+    border-width: 2vw;
+    background-image:url(Heber\ images/Heber.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div.Index>article{
+    text-align:center;
+    font-size:3.5vw
+
+    
+}
+
+
+header.Index{
+    display:grid;
+    margin-top:10vw;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 10vw auto auto;
+    text-align:center;
+    margin-bottom:8vw;
+    
+    
+
+    
+}
+
+
+
+a.Index{
+    color:burlywood;
+    font-size:3vw;
+    text-decoration: none;
+    
+    
+}
+button.Index:hover{
+    background-image:url(Heber\ images/Ski_Resort.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style:double;
+}
+
+button.Index1:hover{
+    background-image:url(Heber\ images/Hill.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style:double;
+}
+
+button.Index2:hover{
+    background-image:url(Heber\ images/Heber_History.webp);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style:double;
+}
+
+button.Index3:hover{
+    background-image:url(Heber\ images/KFC.png);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style:double;
+}
+
+article.Index{
+    text-align:center;
+    font-size:2vw;
+}
+
+article.Index1{
+    text-align:center;
+    font-size:3vw;
+    color:gray;
+
+}
+
+div.Index1{
+    border-style:groove;
+    border-width: 0.5vw;
+    background-image:url(Heber\ images/Grass.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-width:2vw;
+}
+
+p.Index{
+    text-align:center;
+    color:whitesmoke;
+}
+
+img.Index{
+    margin-left:24vw;
+    width:40vw;
+}
+
+div.History{
+    border-style:groove;
+    border-width: 2vw;
+    background-image:url(Heber\ images/Heber_History.webp);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div.History>article{
+    text-align:center;
+    font-size:4vw;
+
+    
+}
+
+
+header.History{
+    display:grid;
+    margin-top:10vw;
+    grid-template-columns: -8vw auto auto;
+    grid-template-rows: 10vw auto auto;
+    text-align:center;
+    margin-bottom:8vw;
+    
+
+    
+}
+
+
+
+a.History{
+    color:lightsalmon;
+    font-size:3vw;
+    text-decoration: none;
+    
+}
+
+button.History2:hover{
+    background-image:url(Heber\ images/Heber.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+article.History1{
+    margin-top: 5vw;
+    text-align:center;
+    font-size:6vw;
+    margin-bottom:4vh;
+    color: burlywood;
+}
+
+article.History{
+    text-align:center;
+    font-size:3vw;
+   
+}
+
+div.History1{
+    border-style:groove;
+    border-width:2vw;
+}
+
+img.History{
+    width:30vw;
+    Height:35vh;
+    margin-left:26vw;
+    margin-top:3vw;
+}
+
+p.History{
+    text-align:center;
+    border-style:double;
+    color:bisque;
+}
+
+div.History1{
+    background-image:url(Heber\ images/Peace_Treaty.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div.See{
+    border-style:ridge;
+    border-width: 2vw;
+    background-image:url(Heber\ images/Hill.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div.See>article{
+    text-align:center;
+    font-size:3.5vw;
+    
+}
+
+
+header.See{
+    display:grid;
+    margin-top:10vw;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 10vw auto auto;
+    text-align:center;
+    margin-bottom:8vw;
+    
+    
+
+    
+}
+
+
+a.See{
+    color:chocolate;
+    font-size:3vw;
+    text-decoration: none;
+    
+    
+}
+
+div.See1{
+    border-style:solid;
+    border-width:2vw;
+    border-color:darkolivegreen;
+    background-image: url(Heber\ images/Mountainous.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+article.See1{
+    text-align:center;
+    margin-top:3vh;
+    font-size:4vw;
+    margin-bottom:3vw;
+    color:darkolivegreen;
+}
+
+article.See2{
+    text-align:center;
+    font-size:4vw;
+
+}
+
+img.See{
+    margin-left:26vw;
+    width:30vw;
+}
+
+p.See{
+    text-align:center;
+    color:white;
+    font-size:1.5vw;
+}
+
+div.Do{
+    border-style:ridge;
+    border-width: 2vw;
+    background-image:url(Heber\ images/Ski_Resort.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div.Do>article{
+    text-align:center;
+    font-size:3.5vw;
+    
+}
+
+
+header.Do{
+    display:grid;
+    margin-top:10vw;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 10vw auto auto;
+    text-align:center;
+    margin-bottom:8vw;
+    
+    
+
+    
+}
+
+
+a.Do{
+    color:darkslateblue;
+    font-size:3vw;
+    text-decoration: none;
+    
+} 
+
+div.Do1{
+    border-style:inset;
+    border-width:2vw;
+    background-image: url(Heber\ images/Dutch.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+article.Do1{
+    text-align:center;
+    margin-top:3vh;
+    margin-bottom:3vw;
+    font-size:5vw;
+    color:lightblue;
+}
+
+article.Do2{
+    text-align:center;
+    font-size:4vw;
+    
+}
+
+img.Do{
+    margin-top:2vw;
+    margin-left:23vw;
+    width:40vw;
+}
+
+p.Do{
+    text-align:center;
+    color:yellow;
+    font-size:1.5vw;
+}
+
+
+div.Food{
+    border-style:ridge;
+    border-width: 2vw;
+    background-image:url(Heber\ images/KFC.png);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div.Food>article{
+    text-align:center;
+    font-size:4vw;
+    
+}
+
+
+header.Food{
+    display:grid;
+    margin-top:10vw;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 10vw auto auto;
+    text-align:center;
+    margin-bottom:8vw;
+    
+    
+
+    
+}
+
+
+a.Food{
+    color:red;
+    font-size:3vw;
+    text-decoration: none;
+    
+} 
+
+article.Food1{
+    margin-left:12vw;
+    font-size:5vw;
+    margin-top:4vh;
+    color:sandybrown;
+}
+
+div.Food1{
+    border-style:inset;
+    border-width:2vw;
+    margin-top:5vh;
+    background-image:url(Heber\ images/Gim.jfif);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+article.Food2{
+    font-size:10vw;
+    margin-left:35vw;
+}
+
+img.Food{
+    margin-left:12vw;
+    width:60vw;
+}
+
+p.Food{
+    text-align:center;
+    font-size:2vw;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
